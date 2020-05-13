@@ -1,0 +1,39 @@
+body{ font-family: 'Alfa Slab One', sans-serif;
+      background-color: #f9b384;
+      }
+
+.still{background-color: #fff3cd;
+      position: static;
+       margin-top: 70px auto;
+       height: 90%;
+       width: 100%
+
+       display: block;
+
+     }
+.scroller{text-align: center;
+          position: fixed;
+          top:0;
+          height: 70px;
+          width: 100%;
+          background-color: #ff926b;}
+p{padding:0px;
+  font-size: 18;}
+.aa{font-size: 14;}
+hr{width: 10%;
+   border-style: dotted none none;
+   border-color: #f9b384;
+   border-width: 8px;}
+.a{border-color: #fff3cd}
+audio{color: powderblue;}
+.poem{background-image: url('IMG-20181225-WA0027.jpg');
+
+        height: 100%;
+        width: 140%;
+        background-repeat: no-repeat;
+        font-style: normal;
+        color: white;
+
+
+        text-align:}
+.a{font-size: 25;}
